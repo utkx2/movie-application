@@ -18,3 +18,4 @@ A movie app that allows users to view and search for movies, and see details of 
 ## Contribution
 
 All kind of contributions are welcome, please feel free to submit pull requests.
+# movie-application
